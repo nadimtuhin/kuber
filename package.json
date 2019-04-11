@@ -1,0 +1,27 @@
+{
+  "name": "kuber",
+  "version": "1.0.0",
+  "description": "kubernetes helper tool",
+  "main": "index.js",
+  "scripts": {
+    "test:watch": "jest -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadimtuhin/kuber.git"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "eslint": "^5.8.0"
+  },
+  "keywords": [
+    "kubernetes",
+    "helm"
+  ],
+  "author": "Nadim Tuhin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nadimtuhin/kuber/issues"
+  },
+  "homepage": "https://github.com/nadimtuhin/kuber#readme"
+}
